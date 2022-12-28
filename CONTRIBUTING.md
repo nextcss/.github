@@ -1,4 +1,4 @@
-# Contributing to nextcss
+# Contributing to Nextcss
 
 We welcome and appreciate contributions from the community. Whether you're fixing a bug, improving existing functionality, or adding new features, your contributions help to make [Nextcss](https://github.com/nextcss) better for everyone.
 
